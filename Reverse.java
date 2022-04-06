@@ -22,5 +22,6 @@ public class Reverse
 	 System.out.println("Enter the number");
 	 num=sc.nextInt();
  System.out.println("Reversed Number is "+ reverseNumber(num));
+	  System.out.println("Reversed it")
  }
 }
