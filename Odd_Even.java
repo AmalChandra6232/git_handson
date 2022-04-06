@@ -17,5 +17,6 @@ public class Odd_Even
  }
   System.out.printf("\nCount of even numbers: %d",even);
  System.out.printf("\nCount of odd numbers: %d",odd);
+  System.ot.println("Reversed it");
  }
 }
