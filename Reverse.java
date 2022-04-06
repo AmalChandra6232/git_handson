@@ -22,5 +22,7 @@ public class Reverse
 	 System.out.println("Enter the number");
 	 num=sc.nextInt();
  System.out.println("Reversed Number is "+ reverseNumber(num));
+	 git checkout feature
+ System.out.println("reversed ittttttttt");
  }
 }
